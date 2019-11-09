@@ -1,0 +1,107 @@
+2019-11-10 01:26:22 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:27:35 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:27:35 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:27:37 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:28:15 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:28:15 INFO  HomePage:29 - **** Clicking on files tab ****
+2019-11-10 01:28:21 INFO  HomePage:33 - *** Clicking on Add Image button ***
+2019-11-10 01:28:31 INFO  HomePage:39 - *** Clicking on upload image section ****
+2019-11-10 01:32:07 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:33:27 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:33:27 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:33:29 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:33:43 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:33:43 INFO  HomePage:29 - **** Clicking on files tab ****
+2019-11-10 01:33:45 INFO  HomePage:33 - *** Clicking on Add Image button ***
+2019-11-10 01:33:48 INFO  HomePage:39 - *** Clicking on upload image section ****
+2019-11-10 01:33:49 INFO  HomePage:44 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 01:35:31 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:36:16 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:36:17 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:36:18 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:36:29 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:36:29 INFO  HomePage:29 - **** Clicking on files tab ****
+2019-11-10 01:36:31 INFO  HomePage:33 - *** Clicking on Add Image button ***
+2019-11-10 01:36:34 INFO  HomePage:39 - *** Clicking on upload image section ****
+2019-11-10 01:36:35 INFO  HomePage:44 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 01:37:43 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:38:20 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:38:20 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:38:21 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:38:28 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:38:28 INFO  HomePage:29 - **** Clicking on files tab ****
+2019-11-10 01:38:30 INFO  HomePage:33 - *** Clicking on Add Image button ***
+2019-11-10 01:38:32 INFO  HomePage:39 - *** Clicking on upload image section ****
+2019-11-10 01:38:45 INFO  HomePage:44 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 01:39:44 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:40:09 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:40:09 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:40:10 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:40:18 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:40:18 INFO  HomePage:29 - **** Clicking on files tab ****
+2019-11-10 01:40:21 INFO  HomePage:33 - *** Clicking on Add Image button ***
+2019-11-10 01:40:23 INFO  HomePage:39 - *** Clicking on upload image section ****
+2019-11-10 01:40:23 INFO  HomePage:44 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 01:50:34 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:51:10 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:51:11 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:51:11 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:51:21 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:51:21 INFO  HomePage:32 - **** Clicking on files tab ****
+2019-11-10 01:51:23 INFO  HomePage:36 - *** Clicking on Add Image button ***
+2019-11-10 01:51:25 INFO  HomePage:42 - *** Clicking on upload image section ****
+2019-11-10 01:51:26 INFO  HomePage:47 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 01:55:03 INFO  UploadImageTest:29 - *** Starting with upload Image Test ***
+2019-11-10 01:55:31 INFO  UploadImageTest:41 - **** Starting of Login Page ****
+2019-11-10 01:55:32 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 01:55:32 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 01:55:39 INFO  UploadImageTest:47 - *** Starting of Home Page ****
+2019-11-10 01:55:39 INFO  HomePage:32 - **** Clicking on files tab ****
+2019-11-10 01:55:41 INFO  HomePage:36 - *** Clicking on Add Image button ***
+2019-11-10 01:55:43 INFO  HomePage:42 - *** Clicking on upload image section ****
+2019-11-10 01:55:43 INFO  HomePage:47 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 02:12:19 INFO  UploadImageTest:26 - **** Starting with Before Method ***
+2019-11-10 02:12:44 INFO  UploadImageTest:42 - *** Starting with upload Image Test with JPEG file***
+2019-11-10 02:12:44 INFO  UploadImageTest:46 - **** Starting of Login Page ****
+2019-11-10 02:12:45 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 02:12:45 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 02:12:51 INFO  UploadImageTest:52 - *** Starting of Home Page ****
+2019-11-10 02:12:51 INFO  HomePage:33 - **** Clicking on files tab ****
+2019-11-10 02:12:54 INFO  HomePage:37 - *** Clicking on Add Image button ***
+2019-11-10 02:12:57 INFO  HomePage:43 - *** Clicking on upload image section ****
+2019-11-10 02:12:57 INFO  HomePage:48 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 02:13:08 INFO  UploadImageTest:26 - **** Starting with Before Method ***
+2019-11-10 02:13:27 INFO  UploadImageTest:67 - *** Starting with upload Image Test with text file***
+2019-11-10 02:13:27 INFO  UploadImageTest:71 - **** Starting of Login Page ****
+2019-11-10 02:13:27 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 02:13:28 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 02:13:33 INFO  UploadImageTest:77 - *** Starting of Home Page ****
+2019-11-10 02:13:33 INFO  HomePage:33 - **** Clicking on files tab ****
+2019-11-10 02:13:35 INFO  HomePage:37 - *** Clicking on Add Image button ***
+2019-11-10 02:13:36 INFO  HomePage:43 - *** Clicking on upload image section ****
+2019-11-10 02:13:37 INFO  HomePage:48 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 02:26:59 INFO  UploadImageTest:30 - **** Starting with Before Method ***
+2019-11-10 02:26:59 INFO  JSONReaderUtil:19 - Reading the json file : config.json
+2019-11-10 02:26:59 INFO  UploadImageTest:33 - As per the Config JSON, environment is UAT
+2019-11-10 02:27:24 INFO  UploadImageTest:50 - *** Starting with upload Image Test with JPEG file***
+2019-11-10 02:27:24 INFO  UploadImageTest:54 - **** Starting of Login Page ****
+2019-11-10 02:27:25 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 02:27:27 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 02:27:36 INFO  UploadImageTest:60 - *** Starting of Home Page ****
+2019-11-10 02:27:36 INFO  HomePage:33 - **** Clicking on files tab ****
+2019-11-10 02:27:38 INFO  HomePage:37 - *** Clicking on Add Image button ***
+2019-11-10 02:27:40 INFO  HomePage:43 - *** Clicking on upload image section ****
+2019-11-10 02:27:40 INFO  HomePage:48 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 02:27:51 INFO  UploadImageTest:30 - **** Starting with Before Method ***
+2019-11-10 02:27:51 INFO  JSONReaderUtil:19 - Reading the json file : config.json
+2019-11-10 02:27:51 INFO  UploadImageTest:33 - As per the Config JSON, environment is UAT
+2019-11-10 02:28:12 INFO  UploadImageTest:75 - *** Starting with upload Image Test with text file***
+2019-11-10 02:28:12 INFO  UploadImageTest:79 - **** Starting of Login Page ****
+2019-11-10 02:28:12 INFO  LoginPage:31 - *** Entering demo@bigtreecms.org into the email ID text box ***
+2019-11-10 02:28:13 INFO  LoginPage:34 - *** Entering password into password text box ***
+2019-11-10 02:28:18 INFO  UploadImageTest:85 - *** Starting of Home Page ****
+2019-11-10 02:28:18 INFO  HomePage:33 - **** Clicking on files tab ****
+2019-11-10 02:28:20 INFO  HomePage:37 - *** Clicking on Add Image button ***
+2019-11-10 02:28:21 INFO  HomePage:43 - *** Clicking on upload image section ****
+2019-11-10 02:28:22 INFO  HomePage:48 - *** Checking whether the image is uploaded successfully or not
+2019-11-10 02:28:32 INFO  UploadImageTest:95 - Checking whether the actual error text matches with expected Text =====>This form only accepts png, jpg, and gif images.

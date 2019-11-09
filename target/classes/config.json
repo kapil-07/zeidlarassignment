@@ -1,0 +1,7 @@
+{
+	"environment": "UAT",
+	"URL": "https://demo.bigtreecms.org/admin/login",
+	"userID": "demo@bigtreecms.org",
+	"password": "demo",
+	"uploadErrorMessageToBeVerifies": "This form only accepts png, jpg, and gif images."
+}
